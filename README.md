@@ -1,4 +1,4 @@
-# Tampa Drive
+# Tampa Drive – Ride-Sharing Board for Friends
 
 A private ride board for my friends in Tampa, built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Friends who have a car post the trips they're already making, and everyone else grabs a seat.
 
