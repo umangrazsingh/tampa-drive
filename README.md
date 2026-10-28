@@ -29,7 +29,6 @@ A lot of my friends are international students without cars. Getting to Walmart,
 - Backend: Node.js with Express.js (REST API)
 - Database: MongoDB Atlas with Mongoose
 - Testing: Jest and Supertest
-- Styling: hand-written CSS with pixel fonts (Pixelify Sans, VT323)
 
 ## Installation
 
